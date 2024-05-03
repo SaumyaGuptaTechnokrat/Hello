@@ -1,0 +1,29 @@
+body{
+    background-color: #cff4fc !important;
+}
+.App{
+    text-align: center;
+}
+.nav-link{
+    width: 17vh;
+    text-align: center;
+}
+.nav-link:hover{
+    background-color: #e7faff !important;
+}
+/* .navbar-nav .nav-link{
+    float: right !important;
+    display: inline;
+    position: relative;
+    left: 77vh;
+}
+@media (max-width:850px) {
+    .navbar-nav{
+        margin-top: 2vh;
+    }
+    .navbar-nav .nav-link{
+        position: relative;
+        left: 30vh !important;
+        margin-bottom: 1vh;
+    }
+} */

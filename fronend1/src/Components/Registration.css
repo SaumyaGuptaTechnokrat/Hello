@@ -1,0 +1,18 @@
+.container-fluid{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 12vh;
+}
+.card-header{
+  height: 8vh;
+  padding: 1vh;
+}
+.card{
+  width: 40% !important;
+}
+
+  /* input{
+    background: transparent !important;
+  } */
